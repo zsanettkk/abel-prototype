@@ -25,4 +25,7 @@ Target user: a wheelchair user navigating unfamiliar places in London.
 - Designed as part of my MSc in Human-Computer Interaction at UCL for a student innovation challenge. Built with Claude (AI-assisted); I led the product concept, user focus and interaction design.
 
 ## Tech
-React (mobile-first web app)
+Web app prototype, hosted on Vercel
+
+## Live demo
+https://abel-black.vercel.app/
